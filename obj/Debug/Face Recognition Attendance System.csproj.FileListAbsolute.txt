@@ -1,0 +1,62 @@
+C:\Users\kaifk\source\repos\Face Recognition Attendance System\obj\Debug\Face Recognition Attendance System.csproj.AssemblyReference.cache
+C:\Users\kaifk\source\repos\Face Recognition Attendance System\obj\Debug\Face Recognition Attendance System.csproj.SuggestedBindingRedirects.cache
+C:\Users\kaifk\source\repos\Face Recognition Attendance System\obj\Debug\Face_Recognition_Attendance_System.Form1.resources
+C:\Users\kaifk\source\repos\Face Recognition Attendance System\obj\Debug\Face_Recognition_Attendance_System.Properties.Resources.resources
+C:\Users\kaifk\source\repos\Face Recognition Attendance System\obj\Debug\Face Recognition Attendance System.csproj.GenerateResource.cache
+C:\Users\kaifk\source\repos\Face Recognition Attendance System\obj\Debug\Face Recognition Attendance System.csproj.CoreCompileInputs.cache
+C:\Users\kaifk\source\repos\Face Recognition Attendance System\bin\Debug\Face Recognition Attendance System.exe.config
+C:\Users\kaifk\source\repos\Face Recognition Attendance System\bin\Debug\Face Recognition Attendance System.exe
+C:\Users\kaifk\source\repos\Face Recognition Attendance System\bin\Debug\Face Recognition Attendance System.pdb
+C:\Users\kaifk\source\repos\Face Recognition Attendance System\bin\Debug\Emgu.CV.dll
+C:\Users\kaifk\source\repos\Face Recognition Attendance System\bin\Debug\Emgu.CV.GPU.dll
+C:\Users\kaifk\source\repos\Face Recognition Attendance System\bin\Debug\Emgu.CV.ML.dll
+C:\Users\kaifk\source\repos\Face Recognition Attendance System\bin\Debug\Emgu.CV.UI.dll
+C:\Users\kaifk\source\repos\Face Recognition Attendance System\bin\Debug\Emgu.Util.dll
+C:\Users\kaifk\source\repos\Face Recognition Attendance System\bin\Debug\Emgu.CV.xml
+C:\Users\kaifk\source\repos\Face Recognition Attendance System\bin\Debug\Emgu.CV.UI.xml
+C:\Users\kaifk\source\repos\Face Recognition Attendance System\bin\Debug\Emgu.Util.xml
+C:\Users\kaifk\source\repos\Face Recognition Attendance System\obj\Debug\Face Recognition Attendance System.csproj.CopyComplete
+C:\Users\kaifk\source\repos\Face Recognition Attendance System\obj\Debug\Face Recognition Attendance System.exe
+C:\Users\kaifk\source\repos\Face Recognition Attendance System\obj\Debug\Face Recognition Attendance System.pdb
+D:\Face Recognition Attendance System\bin\Debug\Face Recognition Attendance System.exe.config
+D:\Face Recognition Attendance System\obj\Debug\Face Recognition Attendance System.exe
+D:\Face Recognition Attendance System\obj\Debug\Face Recognition Attendance System.pdb
+D:\Face Recognition Attendance System\bin\Debug\Face Recognition Attendance System.exe
+D:\Face Recognition Attendance System\bin\Debug\Face Recognition Attendance System.pdb
+D:\Face Recognition Attendance System\bin\Debug\mscorlib.dll
+D:\Face Recognition Attendance System\bin\Debug\System.Net.Http.dll
+D:\Face Recognition Attendance System\bin\Debug\Emgu.CV.xml
+D:\Face Recognition Attendance System\bin\Debug\Emgu.CV.UI.xml
+D:\Face Recognition Attendance System\bin\Debug\Emgu.Util.xml
+D:\Face Recognition Attendance System\bin\Debug\System.Net.Http.xml
+D:\Face Recognition Attendance System\bin\Debug\normidna.nlp
+D:\Face Recognition Attendance System\bin\Debug\normnfc.nlp
+D:\Face Recognition Attendance System\bin\Debug\normnfd.nlp
+D:\Face Recognition Attendance System\bin\Debug\normnfkc.nlp
+D:\Face Recognition Attendance System\bin\Debug\normnfkd.nlp
+D:\Face Recognition Attendance System\obj\Debug\Face Recognition Attendance System.csprojResolveAssemblyReference.cache
+D:\Face Recognition Attendance System\obj\Debug\Face_Recognition_Attendance_System.Form1.resources
+D:\Face Recognition Attendance System\obj\Debug\Face_Recognition_Attendance_System.Properties.Resources.resources
+D:\Face Recognition Attendance System\obj\Debug\Face Recognition Attendance System.csproj.GenerateResource.Cache
+G:\Face Recognition Attendance System\bin\Debug\Face Recognition Attendance System.exe.config
+G:\Face Recognition Attendance System\bin\Debug\Face Recognition Attendance System.exe
+G:\Face Recognition Attendance System\bin\Debug\Face Recognition Attendance System.pdb
+G:\Face Recognition Attendance System\bin\Debug\Emgu.CV.xml
+G:\Face Recognition Attendance System\bin\Debug\Emgu.CV.UI.xml
+G:\Face Recognition Attendance System\bin\Debug\Emgu.Util.xml
+G:\Face Recognition Attendance System\obj\Debug\Face Recognition Attendance System.csproj.AssemblyReference.cache
+G:\Face Recognition Attendance System\obj\Debug\Face Recognition Attendance System.csproj.SuggestedBindingRedirects.cache
+G:\Face Recognition Attendance System\obj\Debug\Face_Recognition_Attendance_System.Form1.resources
+G:\Face Recognition Attendance System\obj\Debug\Face_Recognition_Attendance_System.Properties.Resources.resources
+G:\Face Recognition Attendance System\obj\Debug\Face Recognition Attendance System.csproj.GenerateResource.cache
+G:\Face Recognition Attendance System\obj\Debug\Face Recognition Attendance System.csproj.CoreCompileInputs.cache
+G:\Face Recognition Attendance System\obj\Debug\Face Recognition Attendance System.csproj.CopyComplete
+G:\Face Recognition Attendance System\obj\Debug\Face Recognition Attendance System.exe
+G:\Face Recognition Attendance System\obj\Debug\Face Recognition Attendance System.pdb
+H:\Face Recognition Attendance System\obj\Debug\Face Recognition Attendance System.csproj.AssemblyReference.cache
+H:\Face Recognition Attendance System\obj\Debug\Face Recognition Attendance System.csproj.SuggestedBindingRedirects.cache
+H:\Face Recognition Attendance System\obj\Debug\Face_Recognition_Attendance_System.Form1.resources
+H:\Face Recognition Attendance System\obj\Debug\Face_Recognition_Attendance_System.Properties.Resources.resources
+H:\Face Recognition Attendance System\obj\Debug\Face Recognition Attendance System.csproj.GenerateResource.cache
+H:\Face Recognition Attendance System\obj\Debug\Face Recognition Attendance System.csproj.CoreCompileInputs.cache
+H:\Face Recognition Attendance System\obj\Debug\Face Recognition Attendance System.exe
